@@ -1,6 +1,6 @@
 # Medical Cost Prediction Using Machine Learning 
 
-This project was an AI & Datascince exercise of MCIT Future Skills program 
+This project was an AI & Data Science exercise of MCIT Future Skills program 
 
 ## Dataset : 
 
